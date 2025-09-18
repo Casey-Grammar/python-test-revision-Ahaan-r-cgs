@@ -6,7 +6,7 @@
 def main():
     #Write your code here
     var =  input('What is the password Ali? ')
-    if var == 'Open Sesame!':
+    if var == 'Open sesame!':
         print('The cave door opens!')
 
 
