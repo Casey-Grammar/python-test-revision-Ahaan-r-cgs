@@ -6,9 +6,14 @@
 
 def main():
     #Write your code here
-   
-
-
+    var = input('Italy: ')
+    var1 = input('Brazil: ')
+    if var > var1:
+        print('Italy won the match.')
+    elif var < var1:
+        print('Brazil own the match.')
+    else:
+        print('The match was a draw.')
     # End of your code here
 
 

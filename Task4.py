@@ -5,7 +5,10 @@
 
 def main():
     #Write your code here
-    
+    var =  input('What is the password Ali? ')
+    if var == 'Open Sesame!':
+        print('The cave door opens!')
+
 
 
     # End of your code here

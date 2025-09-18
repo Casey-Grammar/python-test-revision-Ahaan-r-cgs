@@ -5,7 +5,9 @@
 
 def main():
     #Write your code here
-    
+    var = input('Cats: ')
+    var2 = len(var.split())
+    print(f'You have {var2} cats.')
 
 
 

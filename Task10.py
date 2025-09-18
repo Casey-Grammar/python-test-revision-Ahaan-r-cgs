@@ -11,6 +11,12 @@
 
 def main():
     #Write your code here
+    var = input('Sutdents: ').title()
+    var1 = var.split()
+    print('Class Roll')
+    for i in var1:
+        print(i)
+    
     
 
 
